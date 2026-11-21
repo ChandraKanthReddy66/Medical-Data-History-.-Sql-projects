@@ -1,1 +1,1 @@
-# Medical-Data-History-.-Sql-projects
+# Medical-Data-History-Sql-projects
